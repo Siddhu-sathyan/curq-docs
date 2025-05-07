@@ -219,7 +219,7 @@ Zodra u zich in de Rapportageweergave bevindt, kunt u elke mailingcampagne analy
 
 Daarnaast kunt u kiezen uit verschillende **maatstaven** via het **MEETWAARDEN**. Deze omvatten: **Bounced, Geannuleerd, Geklikt, Geleverd**, enz. U kunt ook **filters toepassen, groeperen op** verschillende criteria (bijv. **Massamailingcampagnes, status, verzonden door**) en weergaven opslaan als favorieten voor snelle toegang in de toekomst. Deze krachtige tool helpt bij het volgen van de effectiviteit van uw e-mailcampagnes en bij het nemen van datagestuurde marketingbeslissingen.
 
-image
+.. image:: media/emailmarketing043.png
 
 Dedicated server
 ----------------
