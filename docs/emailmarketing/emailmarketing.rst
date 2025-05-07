@@ -79,3 +79,43 @@ Wanneer je de **Kanban** weergave van de betreffende mailing raadpleegt, zijn de
 
 Mailinglijsten
 ---------------
+Binnen de **E-mail Marketing** module heb je de mogelijkheid om e-mails te sturen naar zowel individuen als groepen mensen via de functie **Mailinglijsten**. Het creëren van mailinglijsten is ook heel eenvoudig binnen de E-mail Marketing module. Je kunt eenvoudig e-mailadressen toevoegen via de opties in het Configuratiemenu. Deze functionaliteit biedt je de flexibiliteit om aparte mailings te creëren voor verschillende gelegenheden, evenementen, promoties en bedrijfsadvertenties, allemaal toegankelijk via dit menu.
+
+Om een **Mailinglijst** te maken, open je de **E-mail Marketing** module, navigeer je naar het tabblad **  Mailinglijsten** en klik je op **Mailinglijsten**.
+
+image
+
+Binnen de specifieke mailinglijstpagina heb je toegang tot geavanceerde opties, waaronder ontvangergegevens, eerdere mailings naar deze contacten, bouncepercentage, afmeldinformatie en blacklist-status. Met het pictogram **+Nieuw** kun je eenvoudig een nieuwe mailinglijst aanmaken.
+
+image
+
+Door op het pictogram **+ Nieuw** te klikken, ga je naar een pagina waar je de titel van de nieuwe mailinglijst kunt opgeven. Nadat je de titel hebt ingevoerd, klik je op het pictogram Opslaan om de mailinglijst aan te maken.
+
+Mailinglijst Contacten
+----------------------
+
+Binnen het tabblad **Mailinglijsten** is er een suboptie genaamd **Mailinglijstcontacten**, waarmee je bestaande contacten kunt bekijken en nieuwe mailinglijstcontacten kunt aanmaken. Deze functie stelt je in staat om specifieke contacten toe te voegen aan aangewezen mailinglijsten.
+
+Image
+
+Wanneer je dit menu opent, zie je een overzicht van de contacten die al aan de betreffende mailinglijst zijn toegevoegd, zoals hieronder weergegeven. Om een nieuw contact aan de mailinglijst toe te voegen, klik je op het pictogram **+ Nieuw**.
+
+Image
+
+Bij het aanmaken van een contact voor de mailinglijst kun je de naam van het contact invoeren in het daarvoor bestemde veld, evenals het e-mailadres, mobiele nummer, titel, bedrijfsnaam en land.
+
+Onder de sectie **Mailinglijst** kun je de lijst met contacten aanmaken of deze handmatig toevoegen via de optie Regel toevoegen. Nadat je het aanmaakproces hebt voltooid, klik je op het pictogram Opslaan om de nieuw aangemaakte lijst toe te voegen aan de bestaande lijst.
+
+image
+
+Campagnes
+----------
+
+
+
+
+
+
+
+
+
