@@ -83,11 +83,11 @@ Binnen de **E-mail Marketing** module heb je de mogelijkheid om e-mails te sture
 
 Om een **Mailinglijst** te maken, open je de **E-mail Marketing** module, navigeer je naar het tabblad **  Mailinglijsten** en klik je op **Mailinglijsten**.
 
-image
+.. image:: media/emailmarketing017.png
 
 Binnen de specifieke mailinglijstpagina heb je toegang tot geavanceerde opties, waaronder ontvangergegevens, eerdere mailings naar deze contacten, bouncepercentage, afmeldinformatie en blacklist-status. Met het pictogram **+Nieuw** kun je eenvoudig een nieuwe mailinglijst aanmaken.
 
-image
+.. image:: media/emailmarketing018.png
 
 Door op het pictogram **+ Nieuw** te klikken, ga je naar een pagina waar je de titel van de nieuwe mailinglijst kunt opgeven. Nadat je de titel hebt ingevoerd, klik je op het pictogram Opslaan om de mailinglijst aan te maken.
 
@@ -96,17 +96,17 @@ Mailinglijst Contacten
 
 Binnen het tabblad **Mailinglijsten** is er een suboptie genaamd **Mailinglijstcontacten**, waarmee je bestaande contacten kunt bekijken en nieuwe mailinglijstcontacten kunt aanmaken. Deze functie stelt je in staat om specifieke contacten toe te voegen aan aangewezen mailinglijsten.
 
-Image
+.. image:: media/emailmarketing019.png
 
 Wanneer je dit menu opent, zie je een overzicht van de contacten die al aan de betreffende mailinglijst zijn toegevoegd, zoals hieronder weergegeven. Om een nieuw contact aan de mailinglijst toe te voegen, klik je op het pictogram **+ Nieuw**.
 
-Image
+.. image:: media/emailmarketing020.png
 
 Bij het aanmaken van een contact voor de mailinglijst kun je de naam van het contact invoeren in het daarvoor bestemde veld, evenals het e-mailadres, mobiele nummer, titel, bedrijfsnaam en land.
 
 Onder de sectie **Mailinglijst** kun je de lijst met contacten aanmaken of deze handmatig toevoegen via de optie Regel toevoegen. Nadat je het aanmaakproces hebt voltooid, klik je op het pictogram Opslaan om de nieuw aangemaakte lijst toe te voegen aan de bestaande lijst.
 
-image
+.. image:: media/emailmarketing021.png
 
 Campagnes
 ----------
