@@ -228,6 +228,14 @@ Dedicated server
 ----------------
 Om gebruik te maken van emailmarketing dien je een eigen SMTP server in te stellen via dedicated server. Stel hier niet je normale emailaccount in, omdat er een grote kans bestaat dat het web dit mailaccount gaat zien als spam.
 
+**Een speciale SMTP-server instellen**:
+
+- Ga naar **Configuratie → Instellingen**.
+
+- Vink de optie **Dedicated Server** aan.
+
+- Selecteer de SMTP-server als deze al is geconfigureerd, of stel een nieuwe SMTP-server in door op de link te klikken - **¨Servers voor uitgaande e-mail configureren¨**.
+
 Er zijn verschillende aanbieders in de markt die SMTP accounts aanbieden. Onderstaand een aantal interessante opties met goede referenties:
 
 - **Sendlayer**: zij bieden een gratis proefversie voor 200 e-mails. Daarna betaal je $ 5 per maand voor 1000 e-mails per maand. Referentielink: https://sendlayer.com/pricing
