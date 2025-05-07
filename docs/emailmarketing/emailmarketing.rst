@@ -61,4 +61,21 @@ Wanneer je op **Plannen** klikt, verschijnt er een dialoogvenster met de vraag: 
 
 image
 
-Je kunt de Verzenddatum selecteren via de kalender en op In Plannen klikken. Als resultaat wordt de e-mail verzonden op de geplande datum. Wanneer je op de knop Plannen klikt, verandert de status van Concept naar Wachtrij. Op de vooraf bepaalde datum wordt de e-mail automatisch verzonden (binnen 5 minuten na het indrukken van verzenden). Nadat het geplande bericht op de opgegeven datum en tijd is verzonden, verandert de status van In Wachtrij naar Verzonden. Indien nodig kunnen e-mails in de fase In Wachtrij teruggezet worden naar Concept door op de knop Annuleren linksboven te klikken. Zodra de e-mail de status Verzonden heeft bereikt, kan deze niet meer worden geannuleerd.
+Je kunt de **Verzenddatum** selecteren via de kalender en op **In Plannen** klikken. Als resultaat wordt de e-mail verzonden op de geplande datum. Wanneer je op de knop **Plannen** klikt, verandert de status van **Concept** naar **Wachtrij**. Op de vooraf bepaalde datum wordt de e-mail automatisch verzonden (binnen 5 minuten na het indrukken van verzenden). Nadat het geplande bericht op de opgegeven datum en tijd is verzonden, verandert de status van **In Wachtrij** naar **Verzonden**. Indien nodig kunnen e-mails in de fase **In Wachtrij** teruggezet worden naar **Concept** door op de knop **Annuleren** linksboven te klikken. Zodra de e-mail de status **Verzonden** heeft bereikt, kan deze niet meer worden geannuleerd.
+
+image
+
+image
+
+Om een specifieke e-mail te testen, kun je de knop **Testen** gebruiken. Wanneer je op de knop **Testen** klikt, verschijnt er een dialoogvenster waarin je wordt gevraagd het e-mailadres van de ontvanger in te voeren om de testmail te versturen. Na het invoeren van het e-mailadres en het klikken op de knop **Verzenden**, wordt de e-mail (binnen 2 minuten) naar de opgegeven ontvanger gestuurd. De e-mail blijft na het testen in de status **Concept**.
+
+image
+
+Na het opstellen en verzenden van de e-mail kun je de status bekijken, waaronder Offerteorder, Gefactureerd, en het totale percentage ontvangers dat de e-mail respectievelijk heeft ontvangen, geopend, geklikt, beantwoord, gebounced, verzonden of genegeerd.
+
+Wanneer je de **Kanban** weergave van de betreffende mailing raadpleegt, zijn de statussen van alle e-mails beschikbaar, zoals geïllustreerd in de onderstaande schermafbeelding.
+
+image
+
+Mailinglijsten
+---------------
