@@ -213,3 +213,22 @@ Klik op de knop **+ NIEUW** om een aangepast filter te definiëren. Voer de **Fi
 Rapportage
 ----------
 
+Om de Mass Mailing Analyse in Odoo te bekijken, navigeert u naar het tabblad **Rapportage** in de **E-mailmarketing** module, zoals weergegeven in de onderstaande afbeelding.
+
+Zodra u zich in de Rapportageweergave bevindt, kunt u elke mailingcampagne analyseren met behulp van verschillende grafiektype zoals: staafdiagram, lijndiagram, cirkelgrafiek, gestapelde weergave. U kunt de gegevens ook sorteren in oplopende of aflopende volgorde om de prestaties beter te interpreteren.
+
+Daarnaast kunt u kiezen uit verschillende **maatstaven** via het **MEETWAARDEN**. Deze omvatten: **Bounced, Geannuleerd, Geklikt, Geleverd**, enz. U kunt ook **filters toepassen, groeperen op** verschillende criteria (bijv. **Massamailingcampagnes, status, verzonden door**) en weergaven opslaan als favorieten voor snelle toegang in de toekomst. Deze krachtige tool helpt bij het volgen van de effectiviteit van uw e-mailcampagnes en bij het nemen van datagestuurde marketingbeslissingen.
+
+image
+
+Dedicated server
+----------------
+Om gebruik te maken van emailmarketing dien je een eigen SMTP server in te stellen via dedicated server. Stel hier niet je normale emailaccount in, omdat er een grote kans bestaat dat het web dit mailaccount gaat zien als spam.
+
+Er zijn verschillende aanbieders in de markt die SMTP accounts aanbieden. Onderstaand een aantal interessante opties met goede referenties:
+
+- **Sendlayer**: zij bieden een gratis proefversie voor 200 e-mails. Daarna betaal je $ 5 per maand voor 1000 e-mails per maand. Referentielink: https://sendlayer.com/pricing
+
+- **Brevo**: zij bieden ook een gratis account met maximaal 300 e-mails per dag. Ze hebben een optie om transactionele e-mail te gebruiken en kosten slechts € 10,00 per maand voor 20k e-mails per maand. Brevo biedt een krachtig marketing platform met transactie-e-mails, e-mailmarketing & sms-marketing. Als deze optie wordt gebruikt, dan kost het € 19,00 per maand. Referentielink: https://www.brevo.com 
+
+- **Sendgrid**: zij bieden een gratis plan met maximaal 100 mails per dag. De volgende stap is $ 19,95 per maand voor 50k e-mails per maand. Referentielink: https://sendgrid.com
