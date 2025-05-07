@@ -110,9 +110,44 @@ Onder de sectie **Mailinglijst** kun je de lijst met contacten aanmaken of deze 
 
 Campagnes
 ----------
+De **campagnes** binnen de e-mail marketingmodule dragen bij aan het vergroten van het succes van het bedrijf. De verschillende opties hiervoor zijn toegankelijk via het instellingenmenu van de module. Wanneer je de optie Mailingcampagnes inschakelt onder het instellingenmenu in de configuratie, verschijnt het campagnesmenu op de hoofdpagina van de module. 
 
+image
 
+Om **campagnes** te bekijken of nieuwe campagnes toe te voegen, open je de E-mail Marketing module en navigeer je naar het tabblad **Campagnes**. Bij het klikken zie je een pagina met de details van bestaande campagnes in verschillende fasen. Je kunt ook nieuwe fasen voor campagnes toevoegen onder de sectie **Configuratie**.
 
+image
+
+Door op het + pictogram bij elke fase te klikken, kun je campagnes toevoegen aan de stappen die je hebt gepland.
+
+image
+
+Of klik op het pictogram **+Nieuw** om de campagnenaam, de verantwoordelijke gebruiker en de relevante tags toe te voegen, zoals weergegeven in de afbeelding hieronder.
+
+image
+
+Je kunt ook een bestaande campagne openen, waar je de knop +Nieuw vindt om een nieuwe campagne aan te maken, zoals weergegeven in de afbeelding hieronder.
+
+image
+
+Om eventuele wijzigingen aan te brengen in een nieuw aangemaakte campagne, open je de betreffende campagne en bewerk je de velden die je wilt aanpassen. Als alternatief kun je in de campagne-fasenweergave op de drie puntjes naast de campagne klikken die je wilt bewerken en vervolgens **Bewerken** selecteren.
+
+image
+
+Je wordt vervolgens doorgestuurd naar een pagina die vergelijkbaar is met de onderstaande schermafbeelding. Vanaf de campagnepagina kun je een nieuwe e-mail aanmaken door te klikken op de knop **MAILING VERZENDEN** linksboven, of door **Regel toevoegen** te selecteren onder het tabblad **Mailings**.
+
+image
+
+- **Mailing Verzenden**: als je hierop klikt, ga je naar een nieuwe pagina waar je een nieuwe e-mail kunt opstellen.
+- **Regel toevoegen**: dit opent een dialoogvenster waarin je direct een nieuwe e-mail kunt aanmaken.
+
+In beide gevallen kun je beginnen met het invullen van de vereiste velden. Onder het tabblad **Instellingen** wordt het veld Campagne automatisch ingevuld.
+
+image
+
+Zodra je klaar bent met het opstellen van de e-mail, klik je op de knop **VERSTUREN**, helemaal links op de pagina. De betreffende campagne toont vervolgens alle gekoppelde mailings onder het tabblad **Mailings**. Alle mailings zijn ook beschikbaar via de slimme knop Mailings, waarmee je gedetailleerde analyses van deze e-mails kunt uitvoeren. De slimme knoppen bevatten onder andere informatie over behaalde omzet, totaal aantal offertes en aangemaakte kansen, mailings en het totaal aantal klikken.
+
+Configuratie
 
 
 
