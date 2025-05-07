@@ -210,3 +210,6 @@ Klik op de knop **+ NIEUW** om een aangepast filter te definiëren. Voer de **Fi
 
 image
 
+Rapportage
+----------
+
