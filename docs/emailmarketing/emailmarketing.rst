@@ -1,3 +1,6 @@
+Email Marketing
+===============
+
 Inleiding
 ---------
 CURQ biedt een **E-mail Marketing module** aan waarmee je specifieke advertenties of andere marketinggerelateerde berichten kunt versturen naar een geselecteerde groep mensen of klanten, met als doel effectieve communicatie te bevorderen.
