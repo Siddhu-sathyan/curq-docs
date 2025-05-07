@@ -232,7 +232,11 @@ Om gebruik te maken van emailmarketing dien je een eigen SMTP server in te stell
 
 - Ga naar **Configuratie → Instellingen**.
 
+.. image:: media/emailmarketing044.png
+
 - Vink de optie **Dedicated Server** aan.
+
+.. image:: media/emailmarketing045.png
 
 - Selecteer de SMTP-server als deze al is geconfigureerd, of stel een nieuwe SMTP-server in door op de link te klikken - **¨Servers voor uitgaande e-mail configureren¨**.
 
