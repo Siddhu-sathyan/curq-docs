@@ -154,61 +154,61 @@ Configuratie
 
 Zodra je de optie **Marketing Campagne** activeert via de **Instellingen** onder het **Configuratiemenu**, krijg je toegang tot de opties voor **Campagne fase** en **Campagne labels**. Om een campagnefase aan te maken, ga je naar het tabblad **Configuratie** en klik je op **Campagne fase**.
 
-image
+.. image:: media/emailmarketing030.png
 
 Als gevolg hiervan word je naar de pagina met de al gemaakte campagne-stappen geleid, zoals weergegeven in de onderstaande afbeelding. Om een nieuwe campagnefase aan te maken, kun je het **+NIEUW** pictogram gebruiken, waarmee je een nieuwe regel kunt toevoegen.
 
-image
+.. image:: media/emailmarketing031.png
 
 Om een **Campagne labels** aan te maken, ga je naar het tabblad **Configuratie** en klik je op **Campagne labels**.
 
-image
+.. image:: media/emailmarketing032.png
 
 Als gevolg hiervan word je naar de pagina geleid met de al gemaakte tags, zoals weergegeven in de onderstaande afbeelding. Om een nieuwe tag aan te maken, kun je het **+NIEUW** pictogram gebruiken, waarmee je een nieuwe regel kunt toevoegen.
 
-image
+.. image:: media/emailmarketing033.png
 
 **Link Tracker Configuratie**
 
 De linktracker optie is handig voor het volgen van campagnes, en de relevante instellingen zijn beschikbaar in het configuratiemenu. Om toegang te krijgen, ga je naar het tabblad **Configuratie** en klik je op **Link Tracker**.
 
-image
+.. image:: media/emailmarketing034.png
 
 Op de pagina kun je een lijst van **linktrackers** zien met details zoals **aangemaakt op, Pagina titel, Knoplabel, Doel URL** en **aantal klikken**. Daarnaast zijn er knoppen zoals **Bezoek pagina** en **Statistieken**, die je respectievelijk naar de webpagina met de link en naar de linkstatistieken leiden. Dit stelt je in staat om het succes en de impact van je campagne-links nauwkeurig te meten. 
 
-image
+.. image:: media/emailmarketing035.png
 
 Om een nieuwe **linktracker** aan te maken, klik je op het **+Nieuw** pictogram en vul je de vereiste velden in zoals hieronder weergegeven.
 
-image
+.. image:: media/emailmarketing036.png
 
 **Blacklisted Email Adressen Configuratie**
 
 Als e-mails geblokkeerd moeten worden, kunnen ze worden toegevoegd aan de blacklist. De relevante opties zijn beschikbaar in het configuratiemenu. Om toegang te krijgen, ga je naar het tabblad Configuratie en klik je op **Blacklisted Email Adressen**, zoals hieronder weergegeven.
 
-image
+.. image:: media/emailmarketing037.png
 
 Hier krijgt u een overzicht van de e-mailadressen die op de blacklist staan. U kunt nu de optie **+NIEUW** zien om een nieuwe te maken.
 
-image
+.. image:: media/emailmarketing038.png
 
 De aanmaakpagina zal verschijnen zoals weergegeven in de onderstaande afbeelding. Hier kunt u nieuwe e-mailadressen aan de blacklist toevoegen om verdere communicatie te voorkomen. Voer eenvoudig het e-mailadres in dat u op de blacklist wilt zetten en klik vervolgens op de **Actief** schakelaar om de optie in te schakelen. Standaard is de **Actief**  optie ingeschakeld.
 
-image
+.. image:: media/emailmarketing039.png
 
 Onder de instellingenopties ziet u een functie genaamd **Blacklist optie bij afmelden**, die ontvangers helpt hun blacklist te beheren via de uitschrijfpagina. Dit geeft ontvangers de mogelijkheid om controle uit te oefenen over welke e-mails ze willen ontvangen en welke niet.
 
-image
+.. image:: media/emailmarketing039.png
 
 **Favoriete Filters Configuratie**
 
 In de **E-mailmarketing** module kunt u **Favoriete Filters beheren en configureren** om uw workflow te stroomlijnen en snel toegang te krijgen tot veelgebruikte mailinglijsten of filterweergaven. Om deze functie te gebruiken, gaat u naar het tabblad **Configuratie** en selecteert u **Favoriete Filters**.
 
-image
+.. image:: media/emailmarketing041.png
 
 Klik op de knop **+ NIEUW** om een aangepast filter te definiëren. Voer de **Filternaam** in en specificeer de **Ontvangersmodel** (de doelgroep voor het filter). Klik ten slotte op het opslaanpictogram om het filter op te slaan.
 
-image
+.. image:: media/emailmarketing042.png
 
 Rapportage
 ----------
