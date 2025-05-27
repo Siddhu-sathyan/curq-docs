@@ -23,7 +23,7 @@ Hoe configureer je dit?
 
 • Elke Operating Unit moet gekoppeld zijn aan een bedrijf.
 
-image
+.. image:: media/ou001.png
 
 image
 
