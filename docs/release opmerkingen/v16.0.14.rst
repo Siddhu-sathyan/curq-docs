@@ -123,3 +123,9 @@ image
 image
 
 11. De aanvrager ontvangt een e-mail met een link om de vergadergegevens te bekijken.
+
+image
+
+**Opmerking**: Als de aanvrager geen portaaltoegang heeft, wordt er een getokeniseerde link gegenereerd om de vergadergegevens te bekijken.
+
+image
