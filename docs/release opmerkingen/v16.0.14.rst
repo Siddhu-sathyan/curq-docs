@@ -67,3 +67,23 @@ Deze waarden worden gebruikt wanneer automatisch een vergadering wordt aangemaak
 image
 
 **3) Boekingen aanmaken**
+
+3.1 **Om een vergadering of boeking met geselecteerde middelen in te plannen, volg je deze stappen**:
+
+1. Ga naar **Resource Bookings > Types**        .
+2. Selecteer het gewenste boekingstype (bijv. "Vergadering").
+3. Klik op **Aantal Boekingen** (Booking Count) om de beschikbaarheidskalender te bekijken.
+4. Selecteer een vrij tijdslot in de kalender.
+5. In het boekingsformulier dat wordt geopend:
+        ◦ Vul de **Aanvrager** in (dit kan jezelf zijn of iemand anders).
+
+        ◦ (Optioneel) Vink **Automatisch toewijzen** uit als je handmatig een andere middelencombinatie wilt kiezen.
+
+        ◦ Kies de gewenste **Middelencombinatie** uit de lijst.
+
+6. Controleer andere details zoals **naam van de boeking**, **datum**, **duur** en optionele **tags**.
+7. Klik op **Opslaan**.
+**Let op**: Als de boeking dicht bij de starttijd wordt gemaakt, kan er een waarschuwing verschijnen:
+
+"**Deze boeking heeft de wijzigingsdeadline overschreden.**"
+
