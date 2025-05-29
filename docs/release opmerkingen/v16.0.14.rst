@@ -68,7 +68,7 @@ image
 
 **3) Boekingen aanmaken**
 
-3.1 **Om een vergadering of boeking met geselecteerde middelen in te plannen, volg je deze stappen**:
+**3.1 Om een vergadering of boeking met geselecteerde middelen in te plannen, volg je deze stappen**:
 
 1. Ga naar **Resource Bookings > Types**        .
 2. Selecteer het gewenste boekingstype (bijv. "Vergadering").
@@ -87,3 +87,39 @@ image
 
 "**Deze boeking heeft de wijzigingsdeadline overschreden.**"
 
+image
+
+**3.2. Iemand uitnodigen om een middelencombinatie te reserveren via het portaal**
+
+Met deze methode kunnen interne gebruikers een boekingsuitnodiging sturen naar een externe aanvrager. De aanvrager kan vervolgens zelf een tijdslot kiezen via zijn portaaltoegang (of via een getokeniseerde URL als hij geen gebruikersaccount heeft).
+
+**Stappen**:
+
+1. Ga naar **Resource Bookings > Types**
+2. Selecteer het gewenste boekingstype (bijv. "Vergadering")
+3. Klik op de slimme knop **Aantal Boekingen** (Booking Count) om de bestaande boekingen te bekijken
+
+image
+
+4. Schakel over naar **Lijstweergave** door op het lijstpictogram rechtsboven te klikken
+5. Klik op **Aanmaken** om een nieuw boekingsformulier te openen
+
+image
+
+6. Vul de volgende gegevens in:
+        ◦ **Aanvrager**: Voer de persoon in die je uitnodigt
+
+        ◦ (Optioneel) Vink **Automatisch toewijzen** uit als je een specifieke **middelencombinatie** wilt selecteren. Als dit is uitgevinkt en er geen combinatie is geselecteerd, zal het                 systeem utomatisch een vrije combinatie toewijzen zodra de aanvrager een tijd kiest
+
+        ◦ **Duur**: Pas aan als deze afwijkt van de standaardduur die is ingesteld in het boekingstype
+
+7. Klik op het **Opslaan-pictogram**
+8. Klik op **Delen**. Er verschijnt een pop-up om de uitnodiging te bevestigen en de gekoppelde middelen te informeren
+9. Voeg indien nodig **notities** toe in de pop-up (optioneel)
+10. Je kunt ook de **boekingslink kopiëren** vanuit de pop-up en deze handmatig met de gebruiker delen
+
+image
+
+image
+
+11. De aanvrager ontvangt een e-mail met een link om de vergadergegevens te bekijken.
