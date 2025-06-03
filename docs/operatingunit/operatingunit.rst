@@ -59,7 +59,8 @@ Hoe configureer je dit?
 
 • Go naar Facturatie > Klanten > Facturen > Nieuw
                
-• Bij het aanmaken van een factuur zou het veld Operationele eenheid zichtbaar moeten zijn. Dit kan handmatig worden geselecteerd of automatisch ingevuld worden op basis van het journaal.                    
+• Bij het aanmaken van een factuur zou het veld Operationele eenheid zichtbaar moeten zijn. Dit kan handmatig worden geselecteerd of automatisch ingevuld worden op basis van het journaal.     
+
 • Zodra de OU is ingesteld, worden alle bijbehorende boekingen gelabeld met die OU.
                
 • Alleen gebruikers met toegang tot die specifieke OU kunnen de factuur bekijken of beheren (afhankelijk van hun OU-restricties).
