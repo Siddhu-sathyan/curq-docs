@@ -8,3 +8,4 @@ Resource Bookings
 
     resourcebookings
     ecommerce-resourcebookings
+
