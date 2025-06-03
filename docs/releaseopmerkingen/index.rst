@@ -1,11 +1,10 @@
 ====================================================================
-Resource Bookings
+Release opmerkingen
 ====================================================================
-
 
 .. toctree::
     :maxdepth: 2
 
-    resourcebookings
-    ecommerce-resourcebookings
-
+    v16.0.12-0.13
+    v16.0.14
+    
