@@ -1,4 +1,4 @@
-Operationele Eenheden
+﻿Operationele Eenheden
 =====================
 
 In CURQ worden Operationele Eenheden gebruikt om de operaties binnen hetzelfde bedrijf te segmenteren, wat zorgt voor betere tracering,
@@ -88,5 +88,3 @@ Kun je:
 • De prestaties van meerdere operationele eenheden met elkaar vergelijken.
 
 .. image:: media/ou010.png
-
-

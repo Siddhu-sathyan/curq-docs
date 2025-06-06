@@ -1,4 +1,4 @@
-Reservering van middelen in e-commerce
+﻿Reservering van middelen in e-commerce
 ======================================
 Met deze module kun je producten verkopen die een reservering vereisen, rechtstreeks via je e-commercewebsite.
 Klanten kunnen een tijdslot kiezen en de bron vooraf reserveren voordat ze hun aankoop voltooien.
@@ -82,4 +82,3 @@ Om klanten in staat te stellen om middelen vooraf te reserveren via je e-commerc
 
 Dit proces stelt je in staat om diensten of productgebaseerde middelen aan te bieden met **geautomatiseerde reservering**
 tijdens het online verkoopproces, waardoor een soepele ervaring ontstaat voor zowel jou als je klanten.
-

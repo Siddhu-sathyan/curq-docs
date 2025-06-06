@@ -1,4 +1,4 @@
-**Major Releases**
+﻿**Major Releases**
 
 Operating Units:
 
@@ -43,4 +43,3 @@ Fixes
 We hebben onze kernmodules voor gegevensopslag verbeterd voor betere prestaties en stabiliteit.
 Daarnaast hebben we de logging voor e-mailverzendproblemen uitgebreid,
 waardoor we eventuele problemen met e-mailbezorging sneller en effectiever kunnen opsporen en oplossen.
-
